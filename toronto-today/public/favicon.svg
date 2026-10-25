@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Toronto Today">
+  <!-- CN Tower. Geometry is simplified deliberately so it still reads at 16px. -->
+  <rect width="32" height="32" rx="7" fill="#275c48"/>
+  <g fill="#fffefa">
+    <!-- needle -->
+    <rect x="15.15" y="3.4" width="1.7" height="7.8" rx="0.85"/>
+    <!-- main pod -->
+    <rect x="10.3" y="11.2" width="11.4" height="4.2" rx="1.4"/>
+    <!-- tapering shaft -->
+    <path d="M13.7 15.4h4.6L19.5 26.6h-7z"/>
+    <!-- base -->
+    <rect x="11.8" y="26" width="8.4" height="2.4" rx="1.2"/>
+  </g>
+</svg>

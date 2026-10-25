@@ -1,0 +1,22 @@
+[Unit]
+Description=Toronto Today HTTPS tunnel
+After=network-online.target toronto-today.service
+Wants=network-online.target toronto-today.service
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+ExecStart=/usr/local/bin/cloudflared tunnel --config /home/ubuntu/.cloudflared/toronto-today.yml run toronto-today
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+InaccessiblePaths=/home/ubuntu/.hermes /home/ubuntu/.ssh
+MemoryMax=180M
+TasksMax=48
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,16 @@
+[
+  {
+    "publicInteractions": true,
+    "allCount": 18,
+    "freeCount": 7,
+    "search": true,
+    "views": true,
+    "themePersists": true,
+    "failedRefreshRetainsData": true,
+    "errors": []
+  },
+  {
+    "storageDeniedSurvives": true,
+    "staleDateWarning": true
+  }
+]

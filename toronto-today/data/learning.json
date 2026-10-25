@@ -1,0 +1,250 @@
+{
+  "week_of": "2026-10-25",
+  "generated_at": "2026-10-25T08:02:33-04:00",
+  "note": "Weekly deep-reading pool. Ordered best first, with eight additions versus last week and a mix of current first-party engineering work and durable foundational papers. The dashboard can rotate through unused items with Different one.",
+  "pool": [
+    {
+      "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "topic": "Agent design",
+      "level": "Advanced",
+      "read": "18 min",
+      "why": "How a small deterministic router, isolated specialist contexts, and explicit reliability checks can outperform a monolithic agent architecture.",
+      "source": "Meta Engineering",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/"
+    },
+    {
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "topic": "Inference and serving",
+      "level": "Advanced",
+      "read": "16 min",
+      "why": "How shared prompt caching, fewer redundant model calls, parallel tool work, and model routing jointly reduced the cost and latency of an AI code-review system.",
+      "source": "Cloudflare Engineering",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/"
+    },
+    {
+      "title": "Building a data plane from scratch: Stripe’s own high-performance distributed proxy",
+      "topic": "Reliability engineering",
+      "level": "Advanced",
+      "read": "25 min",
+      "why": "How Stripe replaced Envoy with a purpose-built Go proxy to improve service-mesh efficiency while targeting five-and-a-half nines of reliability.",
+      "source": "Stripe Engineering",
+      "url": "https://stripe.dev/blog/building-a-data-plane-from-scratch-stripes-own-high-performance-distributed-proxy"
+    },
+    {
+      "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+      "topic": "AI infrastructure",
+      "level": "Advanced",
+      "read": "22 min",
+      "why": "How power, liquid cooling, Ethernet fabrics, failure handling, and workload goodput fit together in a gigawatt-scale training cluster.",
+      "source": "Meta Engineering",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+    },
+    {
+      "title": "Analyzing technical documents with Deep Review",
+      "topic": "Agent design",
+      "level": "Advanced",
+      "read": "18 min",
+      "why": "How segmentation, adaptive compute budgets, parallel verification, and global synthesis can make agentic review of long technical documents more rigorous.",
+      "source": "Google Research",
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+    },
+    {
+      "title": "How Stripe uses graph search and state machines to auto-remediate a global database fleet",
+      "topic": "Distributed systems",
+      "level": "Advanced",
+      "read": "20 min",
+      "why": "How graph modeling, pathfinding, and state machines can generate safe recovery plans for a changing global database topology.",
+      "source": "Stripe Engineering",
+      "url": "https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet"
+    },
+    {
+      "title": "Building agents with the Claude Agent SDK",
+      "topic": "Agent design",
+      "level": "Intermediate",
+      "read": "18 min",
+      "why": "How filesystem-based context gathering, subagents, tool design, and compaction support production agents that run beyond a single prompt.",
+      "source": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk"
+    },
+    {
+      "title": "Uber’s Journey to Ray on Kubernetes: Ray Setup",
+      "topic": "Kubernetes",
+      "level": "Advanced",
+      "read": "22 min",
+      "why": "How Uber moved distributed ML workloads to Ray on Kubernetes and designed a federated layer to simplify resource requests and improve utilization.",
+      "source": "Uber Engineering",
+      "url": "https://www.uber.com/blog/ubers-journey-to-ray-on-kubernetes-ray-setup/"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "topic": "Developer infrastructure",
+      "level": "Advanced",
+      "read": "20 min",
+      "why": "How agent-scale development changes version-control requirements, and how Anthropic removed a fast-growing merge bottleneck through a five-month migration to an in-house system.",
+      "source": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+    },
+    {
+      "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+      "topic": "Distributed systems",
+      "level": "Advanced",
+      "read": "20 min",
+      "why": "How to separate a database control plane from edge query execution while managing millions of databases on a shared developer platform.",
+      "source": "Cloudflare Engineering",
+      "url": "https://blog.cloudflare.com/d1-control-plane/"
+    },
+    {
+      "title": "Writing effective tools for agents — with agents",
+      "topic": "Agent design",
+      "level": "Intermediate",
+      "read": "15 min",
+      "why": "How evaluation-driven iteration, namespacing, concise tool responses, and clear error feedback make tools easier for agents to discover and use correctly.",
+      "source": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering/writing-tools-for-agents"
+    },
+    {
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "topic": "Agent security",
+      "level": "Advanced",
+      "read": "25 min",
+      "why": "Why static permissions break down for probabilistic agents, and how contextual policy engines, sandboxing, user controls, and multi-agent evaluation can form layered defenses.",
+      "source": "Google Research",
+      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/"
+    },
+    {
+      "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+      "topic": "Agent infrastructure",
+      "level": "Advanced",
+      "read": "15 min",
+      "why": "How runtime-selected images, Durable Object-owned lifecycles, colocated scheduling, and filesystem snapshots make on-demand agent sandboxes faster and recoverable.",
+      "source": "Cloudflare Engineering",
+      "url": "https://blog.cloudflare.com/faster-agent-sandboxes/"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "topic": "Evals",
+      "level": "Advanced",
+      "read": "20 min",
+      "why": "How to evaluate stateful agents against terminal backend state, side effects, and repeated-run consistency instead of trusting prose or valid-looking tool calls.",
+      "source": "Microsoft and Hugging Face",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+    },
+    {
+      "title": "Towards a science of scaling agent systems: When and why agent systems work",
+      "topic": "Agent design",
+      "level": "Advanced",
+      "read": "20 min",
+      "why": "How task decomposability, sequential dependencies, and tool density determine whether single-agent, centralized, or parallel architectures will help or amplify errors.",
+      "source": "Google Research",
+      "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+    },
+    {
+      "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+      "topic": "Context engineering",
+      "level": "Advanced",
+      "read": "25 min",
+      "why": "How structured knowledge files, composable reasoning recipes, evaluation gates, and expert-feedback compilation create auditable institutional memory without retraining.",
+      "source": "Meta Engineering",
+      "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/"
+    },
+    {
+      "title": "Harness design for long-running application development",
+      "topic": "Agent design",
+      "level": "Advanced",
+      "read": "25 min",
+      "why": "How planner, generator, and evaluator agents, structured handoffs, context resets, and skeptical grading make multi-hour coding runs more coherent.",
+      "source": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps"
+    },
+    {
+      "title": "ReasoningBank: Enabling agents to learn from experience",
+      "topic": "Context engineering",
+      "level": "Advanced",
+      "read": "20 min",
+      "why": "How to distill successes and failures into reusable reasoning memories, then combine them with parallel and sequential test-time exploration.",
+      "source": "Google Research",
+      "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+    },
+    {
+      "title": "Effective context engineering for AI agents",
+      "topic": "Context engineering",
+      "level": "Intermediate",
+      "read": "22 min",
+      "why": "How to manage instructions, tools, history, retrieval, and compaction as a finite attention budget rather than treating context as an unlimited prompt.",
+      "source": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents"
+    },
+    {
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "topic": "Agent infrastructure",
+      "level": "Advanced",
+      "read": "18 min",
+      "why": "How durable session logs and independently replaceable harnesses and sandboxes turn long-running agents from fragile pets into recoverable services.",
+      "source": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering/managed-agents"
+    },
+    {
+      "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "topic": "Inference and serving",
+      "level": "Advanced",
+      "read": "35 min",
+      "why": "Why KV-cache fragmentation wastes accelerator memory, and how OS-style paging plus continuous batching raises serving throughput without changing model outputs.",
+      "source": "arXiv 2309.06180",
+      "url": "https://arxiv.org/abs/2309.06180"
+    },
+    {
+      "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+      "topic": "Inference and serving",
+      "level": "Advanced",
+      "read": "40 min",
+      "why": "Why attention is memory-bound, and how IO-aware tiling makes exact attention dramatically faster without approximation.",
+      "source": "arXiv 2205.14135",
+      "url": "https://arxiv.org/abs/2205.14135"
+    },
+    {
+      "title": "Saving another 100TB of RAM with math and Rust",
+      "topic": "Systems optimization",
+      "level": "Advanced",
+      "read": "13 min",
+      "why": "How probability, consistent hashing, and careful data-structure work removed more than 100 TB of fleet-wide memory use from a Pingora service.",
+      "source": "Cloudflare Engineering",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
+    },
+    {
+      "title": "How we built our multi-agent research system",
+      "topic": "Agent design",
+      "level": "Advanced",
+      "read": "20 min",
+      "why": "How an orchestrator delegates parallel research, manages context, and balances higher token cost against coverage and quality.",
+      "source": "Anthropic Engineering",
+      "url": "https://www.anthropic.com/engineering/multi-agent-research-system"
+    },
+    {
+      "title": "Spanner: Google's Globally-Distributed Database",
+      "topic": "Distributed systems",
+      "level": "Advanced",
+      "read": "40 min",
+      "why": "How TrueTime enables externally consistent transactions across a global database despite clock uncertainty and replication delay.",
+      "source": "Google Research",
+      "url": "https://research.google/pubs/spanner-googles-globally-distributed-database-2/"
+    },
+    {
+      "title": "Attention Is All You Need",
+      "topic": "Transformer architecture",
+      "level": "Foundational",
+      "read": "45 min",
+      "why": "How self-attention, multi-head attention, positional encoding, and encoder-decoder blocks replaced recurrence with a parallelizable sequence architecture.",
+      "source": "arXiv 1706.03762",
+      "url": "https://arxiv.org/abs/1706.03762"
+    },
+    {
+      "title": "Designing robust and predictable APIs with idempotency",
+      "topic": "API design",
+      "level": "Intermediate",
+      "read": "15 min",
+      "why": "How idempotency keys and server-side request semantics make network retries safe without duplicating side effects.",
+      "source": "Stripe Engineering",
+      "url": "https://stripe.com/blog/idempotency"
+    }
+  ]
+}

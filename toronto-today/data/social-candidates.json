@@ -1,0 +1,472 @@
+{
+ "generated_at": "2026-10-25T11:01:05.586Z",
+ "toronto_today": "2026-10-25",
+ "note": "Candidates only. Verify each event against the organizer before publishing.",
+ "sources": {
+  "luma": {
+   "count": 19,
+   "todayCount": 4,
+   "error": null,
+   "events": [
+    {
+     "title": "Step6 Sunday Social Run",
+     "start": "2026-10-25T15:00:00.000Z",
+     "url": "https://lu.ma/xxj5nmbf",
+     "venue": "Lazy Barista, 157 Queens Quay E, Toronto, ON M5A 1B4, Canada",
+     "image": "https://images.lumacdn.com/uploads/52/b3dcf241-359f-4a9a-9bab-77a9901ec740.jpg",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Crochet 101 w/ @heyitsclaire",
+     "start": "2026-10-25T18:00:00.000Z",
+     "url": "https://lu.ma/3xhmqilq",
+     "venue": "Again Again, 30 Duncan St #608, Toronto, ON M5V 0H3, Canada",
+     "image": "https://images.lumacdn.com/uploads/p2/1df1a389-6277-45bd-9496-5ad4d8cb7929.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Sunday - Halloween FREAK OUT!",
+     "start": "2026-10-25T19:00:00.000Z",
+     "url": "https://lu.ma/jjszs7qt",
+     "venue": "847 Dovercourt Rd, Toronto, ON M6H 2X4, Canada",
+     "image": "https://images.lumacdn.com/uploads/8j/fa64d088-954b-4eb8-8a1c-66101cb2cf84.jpg",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Beyond the Business Card",
+     "start": "2026-10-25T21:00:00.000Z",
+     "url": "https://lu.ma/ccju8vl8",
+     "venue": "It's Ok* Studios, 468 Queen St W, Toronto, ON M5V 2B2, Canada",
+     "image": "https://images.lumacdn.com/uploads/4h/38c70518-c54a-4849-9294-375f5e6be984.jpg",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Grok Bot Meetup Toronto - October",
+     "start": "2026-10-26T21:30:00.000Z",
+     "url": "https://lu.ma/mj5bmugc",
+     "venue": "Toronto",
+     "image": "https://images.lumacdn.com/uploads/qw/723914ff-3fa3-47f3-b52b-5584d80e83d2.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Luxury... and Make It Loud. Self-Fashioning in Black, Latinx & Queer Communities. by nigel lezama",
+     "start": "2026-10-27T23:10:00.000Z",
+     "url": "https://lu.ma/duvhkqe3",
+     "venue": "46 Ossington Ave, Toronto, ON M6J 2Y7, Canada",
+     "image": "https://images.lumacdn.com/uploads/94/b26204bd-76b1-45fc-aa19-e8ab4ca9dd03.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Happy Hour with Hyde Park Venture Partners and CIBC Innovation Banking",
+     "start": "2026-10-28T21:00:00.000Z",
+     "url": "https://lu.ma/7zx6s2rj",
+     "venue": "The Parlour, 642 King St W, Toronto, ON M5V 1M7, Canada",
+     "image": "https://images.lumacdn.com/uploads/fp/e3207a1c-030f-4d4f-acad-a06cda9da791.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "The Toronto LLM Meetup Group - No More LLMs: Decision Models & Other Primitives",
+     "start": "2026-10-28T21:30:00.000Z",
+     "url": "https://lu.ma/cbwx6s4g",
+     "venue": "46 Spadina Ave. 5th floor, Toronto, ON M5V 2H8, Canada",
+     "image": "https://images.lumacdn.com/uploads/h2/7dc1a331-dce0-4cf9-aacd-9baf42a6b68a.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "WE BELIEVE TOUR (Toronto)",
+     "start": "2026-10-28T22:00:00.000Z",
+     "url": "https://lu.ma/vca4vpwb",
+     "venue": "Toronto",
+     "image": "https://images.lumacdn.com/uploads/jn/5e35c793-d9eb-4fc0-9b36-7723c683f8c5.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Rise for Tarek: A Community Dance Fundraiser",
+     "start": "2026-10-28T22:30:00.000Z",
+     "url": "https://lu.ma/4ntfrwk5",
+     "venue": "Pluto: Fourth Space for Community, Co-Creation, & Coworking, 60 Sumach St Ground level, Toronto, ON M5A 3J7, Canada",
+     "image": "https://images.lumacdn.com/uploads/nh/5d7bea3a-7137-4b0b-b808-af5d61025a26.jpg",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Knightcap at Park Hyatt",
+     "start": "2026-10-28T23:00:00.000Z",
+     "url": "https://lu.ma/8fp04o77",
+     "venue": "Park Hyatt Toronto, 4 Avenue Rd, Toronto, ON M5R 2E8, Canada",
+     "image": "https://images.lumacdn.com/uploads/jj/c6bff5f5-9b3a-41b1-9e15-4e29c4e876ef.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "DET Toronto Meetup - Oct 29",
+     "start": "2026-10-29T21:00:00.000Z",
+     "url": "https://lu.ma/gfqf7h0v",
+     "venue": "Toronto",
+     "image": "https://images.lumacdn.com/uploads/sm/8671cd30-2a58-4bed-bf9b-e9699c3018a5.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "The GTM Garage: Builders Live in Toronto",
+     "start": "2026-10-29T21:00:00.000Z",
+     "url": "https://lu.ma/9inc1f18",
+     "venue": "Toronto",
+     "image": "https://images.lumacdn.com/gallery-images/gn/74205929-a63e-4019-8704-aaee1ccde05e.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Proof of Work",
+     "start": "2026-10-29T22:00:00.000Z",
+     "url": "https://lu.ma/ffglcmtz",
+     "venue": "Toronto",
+     "image": "https://images.lumacdn.com/uploads/cw/09a3ca8d-ecc2-402d-9ced-85b61b208732.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Sip and Connect",
+     "start": "2026-10-29T22:00:00.000Z",
+     "url": "https://lu.ma/y1ky0wrt",
+     "venue": "Black wolf Coffee, 130 Eglinton Ave E, Toronto, ON M4P 2X9, Canada",
+     "image": "https://images.lumacdn.com/uploads/e7/af9d8c5d-0619-4bf5-8585-7527f197b953.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Crafts and Hobbies in Progress",
+     "start": "2026-10-29T22:30:00.000Z",
+     "url": "https://lu.ma/8veelliq",
+     "venue": "Waterworks Food Hall, 50 Brant St, Toronto, ON M5V 3G9, Canada",
+     "image": "https://images.lumacdn.com/uploads/v6/ecb912f9-ae05-4faa-9d1a-0cf54ca07d04.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Jazz & Draw",
+     "start": "2026-10-29T22:30:00.000Z",
+     "url": "https://lu.ma/d5msc321",
+     "venue": "Again Again, 30 Duncan St #608, Toronto, ON M5V 0H3, Canada",
+     "image": "https://images.lumacdn.com/uploads/x3/71e79f3b-f9a1-411a-8a8b-9e12e7dd670f.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "lucky tile club - october 2026 edition",
+     "start": "2026-10-30T23:00:00.000Z",
+     "url": "https://lu.ma/bcvob0xt",
+     "venue": "Rooms | 17 Baldwin, 17 Baldwin St, Toronto, ON M5T 1L1, Canada",
+     "image": "https://images.lumacdn.com/uploads/r7/c335bc3e-99b3-4497-ab7b-9e2d4d15acd6.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    },
+    {
+     "title": "Toronto's Cutest Run Club (Oct 30) 🧚👻🎃",
+     "start": "2026-10-30T23:30:00.000Z",
+     "url": "https://lu.ma/r60dcy46",
+     "venue": "Toronto",
+     "image": "https://images.lumacdn.com/uploads/25/9f8de93c-5dcb-4bca-a598-1f38cabe8a00.png",
+     "source": "Luma",
+     "source_url": "https://lu.ma/toronto"
+    }
+   ]
+  },
+  "eventbrite": {
+   "count": 28,
+   "todayCount": 0,
+   "error": null,
+   "events": [
+    {
+     "title": "Vampires & Witches Friday October 30 (21+)",
+     "start": "2026-10-30",
+     "end": "2026-10-31",
+     "url": "https://www.eventbrite.ca/e/vampires-witches-friday-october-30-21-tickets-2002098353069",
+     "venue": "The Fifth Social Club",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194142416%2F257797592878%2F1%2Foriginal.20260922-211438?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1720021ecaf1901a61f848526ecd71f7",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "DROP DEAD DIVAS: Halloween Throwback Party!",
+     "start": "2026-10-30",
+     "end": "2026-10-31",
+     "url": "https://www.eventbrite.ca/e/drop-dead-divas-halloween-throwback-party-tickets-2002241378863",
+     "venue": "Bar Cathedral",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194300361%2F539181160903%2F1%2Foriginal.20260924-173605?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6ded7e595780a6737f602696bf7c1481",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "LOVEU4EVER CHURCH HALLOWEEN PARTY",
+     "start": "2026-10-31",
+     "end": "2026-11-01",
+     "url": "https://www.eventbrite.ca/e/loveu4ever-church-halloween-party-tickets-2003056325390",
+     "venue": "Church of the Holy Trinity",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195385848%2F298202454836%2F1%2Foriginal.20261008-171755?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=828901e9bec1782cc4803ca2a131aa38",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "HALLOWEEN THRILLER 2026 @ NEST | LADIES FREE + 1 FREE DRINK | SAT, OCT 31st",
+     "start": "2026-10-31",
+     "end": "2026-11-01",
+     "url": "https://www.eventbrite.ca/e/halloween-thriller-2026-nest-ladies-free-1-free-drink-sat-oct-31st-tickets-2000083326069",
+     "venue": "NEST",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192816952%2F173910726698%2F1%2Foriginal.20260906-132502?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=53592c74daf8c16022bddc7ba701dcac",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Franchise Canada Show Toronto - Fall  2026",
+     "start": "2026-10-24",
+     "end": "2026-10-25",
+     "url": "https://www.eventbrite.ca/e/franchise-canada-show-toronto-fall-2026-tickets-1989674641413",
+     "venue": "Toronto Congress Centre, Hall F",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189899582%2F689006095053%2F1%2Foriginal.20260729-182656?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=49e87798db88e59c47f4431e2182cbfa",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Hush First2Play: Toronto Early Access Event",
+     "start": "2026-10-24",
+     "end": "2026-10-26",
+     "url": "https://www.eventbrite.com/e/hush-first2play-toronto-early-access-event-tickets-2003486967452",
+     "venue": "Invictus Game Station 网娱网家",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195913059%2F3017887231083%2F1%2Foriginal.20261016-005555?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.303&fp-y=0.507&s=f5dd1db2219c62584a08fc1b1b50bf35",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "The Human Variable: Psychology for the AI Age",
+     "start": "2026-10-28",
+     "end": "2026-10-28",
+     "url": "https://www.eventbrite.ca/e/the-human-variable-psychology-for-the-ai-age-tickets-1995512929891",
+     "venue": "U of T: Schwartz Reisman Innovation Campus",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191344046%2F506660118057%2F1%2Foriginal.20260818-154521?w=400&auto=format%2Ccompress&q=75&sharp=10&s=746e24d5e60bacf9dc4aa6d686d0ec99",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "HAUNTED HOUSE PARTY - Toronto's Biggest Halloween Party",
+     "start": "2026-10-31",
+     "end": "2026-11-01",
+     "url": "https://www.eventbrite.com/e/haunted-house-party-torontos-biggest-halloween-party-tickets-2003716621353",
+     "venue": "Agave Azul",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196284722%2F232855692231%2F1%2Foriginal.20261021-151935?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.475&fp-y=0.679&s=f468c444396eb1bcfaaae5c8e687b0c7",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "HALLOWEEN BLACKOUT - halloween presented by BETA",
+     "start": "2026-10-31",
+     "end": "2026-10-31",
+     "url": "https://www.eventbrite.com/e/halloween-blackout-halloween-presented-by-beta-tickets-2003266089801",
+     "venue": "131 Lowther Ave",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195561669%2F3017310255328%2F1%2Foriginal.20261011-203259?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.498&fp-y=0.8&s=98e2c7ca91d391cb51cbf306792597e0",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Toronto Career Fair and Training Expo Canada – November 10, 2026",
+     "start": "2026-11-10",
+     "end": "2026-11-10",
+     "url": "https://www.eventbrite.ca/e/toronto-career-fair-and-training-expo-canada-november-10-2026-tickets-1991110010641",
+     "venue": "Metro Toronto Convention Centre",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F672472759%2F1176894725103%2F1%2Foriginal.20240111-153246?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C15%2C1250%2C625&s=29b1d7924eeb688a1aca262a685cfb33",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "ProFusion Expo 2026 - November 11th & 12th - Toronto",
+     "start": "2026-11-11",
+     "end": "2026-11-12",
+     "url": "https://www.eventbrite.ca/e/profusion-expo-2026-november-11th-12th-toronto-tickets-1984393467279",
+     "venue": "Metro Toronto Convention Centre",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194366429%2F153311748182%2F1%2Foriginal.20260925-152500?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.063&fp-y=0.482&s=2ba3b333d91304b840bceb4955752362",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "The City of Toronto's Small Business Forum 2026",
+     "start": "2026-11-17",
+     "end": "2026-11-17",
+     "url": "https://www.eventbrite.ca/e/the-city-of-torontos-small-business-forum-2026-tickets-2002892787243",
+     "venue": "St. Lawrence Market North",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195090288%2F999384893803%2F1%2Foriginal.20261005-161514?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.573&fp-y=0.554&s=1a36328a7365bcfeb63f33510dbcc846",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "(ONLINE) Women on the Move with Ann Patchett",
+     "start": "2026-10-27",
+     "end": "2026-10-27",
+     "url": "https://www.eventbrite.com/e/online-women-on-the-move-with-ann-patchett-tickets-1993341229276",
+     "venue": null,
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188386463%2F2802773536521%2F1%2Foriginal.20260707-171817?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6699667069a597730a5162119fdeb28e",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Humanitarian Water Engineering Fall 2026",
+     "start": "2026-11-04",
+     "end": "2026-11-04",
+     "url": "https://www.eventbrite.ca/e/humanitarian-water-engineering-fall-2026-registration-1992773753942",
+     "venue": null,
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F543078039%2F258873711344%2F1%2Foriginal.20230626-155818?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=edadac96bc0d98784580d164e66aa652",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "No Title, No Permission, No Problem: Harnessing the Power of Influence",
+     "start": "2026-11-05",
+     "end": "2026-11-05",
+     "url": "https://www.eventbrite.co.uk/e/no-title-no-permission-no-problem-harnessing-the-power-of-influence-tickets-1993676700680",
+     "venue": null,
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189702495%2F63677645%2F1%2Foriginal.20260727-143754?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.691&fp-y=0.467&s=e62cc18728c0ed573a52fe45a2d27ce2",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Better Landscapes: Essential Camera Skills in the Field with Adam Edwards",
+     "start": "2026-11-11",
+     "end": "2026-11-11",
+     "url": "https://www.eventbrite.com.au/e/better-landscapes-essential-camera-skills-in-the-field-with-adam-edwards-tickets-1992798149911",
+     "venue": null,
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188589935%2F346512392669%2F1%2Foriginal.20260710-035802?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.063&fp-y=0.618&s=b32fd8cd4099770474c8cb6c0d490a6a",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Lean Global Connection 2026",
+     "start": "2026-11-12",
+     "end": "2026-11-13",
+     "url": "https://www.eventbrite.com/e/lean-global-connection-2026-tickets-1992427899482",
+     "venue": null,
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187560392%2F488918536279%2F1%2Foriginal.20260624-134619?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492&fp-y=0.696&s=502ba71f9b49c8cbf03300f7b06b9c15",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Physicians Financial Wellness Conference 2026",
+     "start": "2026-11-14",
+     "end": "2026-11-14",
+     "url": "https://www.eventbrite.ca/e/physicians-financial-wellness-conference-2026-tickets-1997800789942",
+     "venue": null,
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193621600%2F567279914913%2F1%2Foriginal.20260916-031319?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3c5c0118c47c5ab9790f0269c74cbbbc",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "The MI5 Archive: Official Secrets",
+     "start": "2026-11-27",
+     "end": "2026-11-27",
+     "url": "https://www.eventbrite.co.uk/e/the-mi5-archive-official-secrets-tickets-1997551526388",
+     "venue": null,
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190779296%2F2824116931731%2F1%2Foriginal.20260811-081733?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.436&s=28b4150f3ed800c5040c28de497de159",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Washington Crossing the Delaware / The Crossing - Film History Livestream",
+     "start": "2026-12-19",
+     "end": "2026-12-19",
+     "url": "https://www.eventbrite.com/e/washington-crossing-the-delaware-the-crossing-film-history-livestream-tickets-1288476210029",
+     "venue": null,
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F536316699%2F37309396322%2F1%2Foriginal.20211020-221453?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C422%2C6004%2C3002&s=f271b45ddf4bb7074a185f971f034a11",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Queersgiving 2026",
+     "start": "2026-10-25",
+     "end": "2026-10-25",
+     "url": "https://www.eventbrite.ca/e/queersgiving-2026-tickets-2003174428640",
+     "venue": "St. Lawrence Hall",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195693822%2F232631131231%2F1%2Foriginal.20261013-144858?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.246&s=97647d8c216817ab4d7c251ec6e532b1",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "F1inTO United States Grand Prix Watch Party. Toronto's Biggest F1 Party",
+     "start": "2026-10-25",
+     "end": "2026-10-25",
+     "url": "https://www.eventbrite.ca/e/f1into-united-states-grand-prix-watch-party-torontos-biggest-f1-party-tickets-1990995535242",
+     "venue": "Loose Moose / Antler Room",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193307976%2F2982591349387%2F1%2Foriginal.20260912-005500?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.045&fp-y=0.284&s=e0f9a1057a13cd39f88b9d2a77fd00da",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Terreiro do Samba - October Edition",
+     "start": "2026-10-25",
+     "end": "2026-10-25",
+     "url": "https://www.eventbrite.ca/e/terreiro-do-samba-october-edition-tickets-2001011348810",
+     "venue": "Lula Lounge",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174669166%2F56753852359%2F1%2Foriginal.20260112-213513?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=76eb072bdc8aa9d2f68b9b63e48c437e",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Queen Street West Cocktail Crawl",
+     "start": "2026-10-25",
+     "end": "2026-10-25",
+     "url": "https://www.eventbrite.ca/e/queen-street-west-cocktail-crawl-tickets-1994109400898",
+     "venue": "The Dirty Laundry Bar",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194294389%2F663025152673%2F1%2Foriginal.20260924-162755?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.148&fp-y=0.504&s=6c1c7bbf9cf8452bb1e9ae9e3652ff67",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Candy Shop Halloween",
+     "start": "2026-10-25",
+     "end": "2026-10-25",
+     "url": "https://www.eventbrite.com/e/candy-shop-halloween-tickets-2002101556651",
+     "venue": "Aera",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194444897%2F2994580517176%2F1%2Foriginal.20260927-034706?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=006e42b296285990d6ce04ea798605aa",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Bentley Robles: The Olympus Tour",
+     "start": "2026-10-25",
+     "end": "2026-10-25",
+     "url": "https://www.eventbrite.com/e/bentley-robles-the-olympus-tour-tickets-1989839724180",
+     "venue": "The Cameron House, Queen Street West, Toronto, ON, Canada",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191787065%2F1983506065273%2F1%2Foriginal.20260824-190721?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0984bbf033406ff3485fe4712f7c0a02",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "Blood on the Clocktower (Int) @ Board Games Arboretum in West End Toronto",
+     "start": "2026-10-25",
+     "end": "2026-10-25",
+     "url": "https://www.eventbrite.ca/e/blood-on-the-clocktower-int-board-games-arboretum-in-west-end-toronto-tickets-2002247635577",
+     "venue": "Board Games Arboretum",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194389664%2F1869381033303%2F1%2Foriginal.20260925-202900?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.99&fp-y=0.517&s=dc3acbd373c457e87f2334fbf5eef479",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    },
+    {
+     "title": "WealthKiddo Halloween Workshop : Spooky Money Fun for Kids (French | 5-8Y)",
+     "start": "2026-10-25",
+     "end": "2026-10-25",
+     "url": "https://www.eventbrite.ca/e/wealthkiddo-halloween-workshop-spooky-money-fun-for-kids-french-5-8y-tickets-2002239387908",
+     "venue": "45 Dunfield Ave",
+     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194314676%2F1861667644913%2F1%2Foriginal.20260924-202240?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1c5ca754e2f33777dfd39675b02e976e",
+     "source": "Eventbrite",
+     "source_url": "https://www.eventbrite.ca/d/canada--toronto--events/"
+    }
+   ]
+  }
+ }
+}

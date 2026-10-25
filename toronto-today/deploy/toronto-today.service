@@ -1,0 +1,25 @@
+[Unit]
+Description=Toronto Today public city briefing
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/phiads-odysseus/toronto-today
+ExecStart=/usr/local/lib/toronto-today/node /home/ubuntu/phiads-odysseus/toronto-today/server.mjs
+Restart=on-failure
+RestartSec=3
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadOnlyPaths=/home/ubuntu/phiads-odysseus/toronto-today
+InaccessiblePaths=/home/ubuntu/.hermes /home/ubuntu/.cloudflared /home/ubuntu/.ssh
+MemoryMax=160M
+TasksMax=32
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/
+media/
+qa-*.png
+qa-*.json
+__pycache__/
+.env

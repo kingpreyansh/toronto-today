@@ -1,0 +1,9 @@
+/* Tailwind utilities for the shadcn registry components.
+ *
+ * Preflight is deliberately NOT imported. Tailwind's preflight is a global reset
+ * that would override the existing hand-written stylesheet for this dashboard,
+ * so only the theme variables and utility classes are pulled in.
+ */
+@layer theme, base, components, utilities;
+@import 'tailwindcss/theme.css' layer(theme);
+@import 'tailwindcss/utilities.css' layer(utilities);
