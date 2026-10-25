@@ -26,12 +26,15 @@ deployment stays live as fallback until the DNS cutover is verified.
   scripts/copy-public-data.mjs during the build.
 - `/data/weather.json`: served live by the Pages Function
   `functions/data/weather.json.js`, which reuses `weather.mjs` unchanged.
-- `/media/...`: the warmed image cache. `media/` is not in git (61 MB,
-  regenerable by warm-images.mjs from the source URLs in data/images.json).
-  When a `media/` directory is present at build time the copy script
-  includes it. OPEN DECISION: long-term media hosting (per-deploy copy vs
-  an R2 bucket behind a `/media/*` route) is settled before the DNS
-  cutover, not before the first test deployment.
+- `/media/...`: the warmed image cache, served from a Cloudflare R2
+  bucket named `toronto-today-media`, bound to the Pages project as
+  `MEDIA` and read by `functions/media/[[path]].js`. Object keys mirror
+  the path under `/media/` (`/media/icons/day-113.png` is key
+  `icons/day-113.png`). `media/` itself is not in git (about 63 MB,
+  regenerable by warm-images.mjs from the source URLs in
+  data/images.json). The current cache was seeded into the bucket once at
+  migration time; the daily flow uploads each edition's newly warmed
+  files. Decision made by Preyansh on Oct 25, 2026: R2, not git.
 
 ## Daily publish flow (after cutover)
 
@@ -39,7 +42,9 @@ deployment stays live as fallback until the DNS cutover is verified.
    publish.py require (publish.py remains the validator of record).
 2. Replace `data/latest.json` (and refresh `data/images.json`,
    `data/credits.json`, `data/learning.json` when they change), warm images,
-   commit, and push to `main`.
+   upload the newly warmed media files to the `toronto-today-media` R2
+   bucket under their `/media/`-relative keys, then commit and push to
+   `main`.
 3. Pages rebuilds and deploys automatically. Verify the live
    `/data/latest.json` reports today's `meta.date_iso` before calling the
    edition published.
